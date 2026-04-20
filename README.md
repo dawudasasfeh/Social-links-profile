@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/dawudasasfeh/Social-links-profile)
-- Live Site URL: Coming soon
+- Live Site URL: [Live Site](https://social-links-profile-smoky-ten.vercel.app/)
 
 ## My process
 
