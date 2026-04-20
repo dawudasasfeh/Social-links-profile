@@ -6,34 +6,34 @@ Use this as your step-by-step learning roadmap. Check each item only after you c
 
 - [D] Read [README.md](README.md) fully.
 - [D] Read [style-guide.md](style-guide.md) and note the required colors, font, and text size.
-- [ ] Open the design image and identify all visual blocks:
-  - [ ] Page background
-  - [ ] Profile card
-  - [ ] Avatar image
-  - [ ] Name
-  - [ ] Location
-  - [ ] Bio text
-  - [ ] Social link buttons
+- [D] Open the design image and identify all visual blocks:
+  - [D] Page background
+  - [D] Profile card
+  - [D] Avatar image
+  - [D] Name
+  - [D] Location
+  - [D] Bio text
+  - [D] Social link buttons
 
 ## 2. Prepare Project Files
 
-- [ ] Keep your main markup in [index.html](index.html).
-- [ ] Create a stylesheet file named style.css.
-- [ ] Link style.css from [index.html](index.html).
-- [ ] Keep challenge assets paths ready:
-  - [ ] Avatar: [assets/images/avatar-jessica.jpeg](assets/images/avatar-jessica.jpeg)
-  - [ ] Favicon: [assets/images/favicon-32x32.png](assets/images/favicon-32x32.png)
+- [D] Keep your main markup in [index.html](index.html).
+- [D] Create a stylesheet file named style.css.
+- [D] Link style.css from [index.html](index.html).
+- [D] Keep challenge assets paths ready:
+  - [D] Avatar: [assets/images/avatar-jessica.jpeg](assets/images/avatar-jessica.jpeg)
+  - [D] Favicon: [assets/images/favicon-32x32.png](assets/images/favicon-32x32.png)
 
 ## 3. Build HTML Structure First (No CSS Yet)
 
-- [ ] Add a top-level main container for the page content.
-- [ ] Add a card container inside main.
-- [ ] Add avatar image element with meaningful alt text.
-- [ ] Add the person name as the main heading.
-- [ ] Add location text.
-- [ ] Add bio/quote text.
-- [ ] Add a list of social links using anchor elements.
-- [ ] Ensure all links are real anchor tags, not plain text.
+- [D] Add a top-level main container for the page content.
+- [D] Add a card container inside main.
+- [D] Add avatar image element with meaningful alt text.
+- [D] Add the person name as the main heading.
+- [D] Add location text.
+- [D] Add bio/quote text.
+- [D] Add a list of social links using anchor elements.
+- [D] Ensure all links are real anchor tags, not plain text.
 
 ## 4. Add CSS Base Styles
 
