@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/dawudasasfeh/Social-links-profile)
-- Live Site URL: [Live Site](https://social-links-profile-smoky-ten.vercel.app/)
+- Live Site URL: [Social links profile](https://dawudasasfeh.github.io/Social-links-profile/)
 
 ## My process
 
@@ -101,5 +101,5 @@ I used GitHub Copilot to help me plan my implementation and follow better practi
 
 ## Author
 
-- Website - [Dawud Alasasfeh](#)
+- Website - [Dawud Alasasfeh](https://dawudasasfeh.github.io/)
 - Frontend Mentor - [@dawudasasfeh](https://www.frontendmentor.io/profile/dawudasasfeh)
